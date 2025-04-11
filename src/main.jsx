@@ -1,7 +1,7 @@
 import React from 'react';
 import './tailwind.css';
 import './index.css'
-import App from './App.jsx'
+import App from './App'
 import ReactDOM from 'react-dom/client';
 import WalletContextProvider from './WalletProvider';
 import './index.css';
