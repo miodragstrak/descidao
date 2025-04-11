@@ -10,10 +10,6 @@ const App = () => {
         <WalletMultiButton />
       </div>
 
-      <div className="bg-red-500 text-white p-4 rounded-xl">
-        Ovo je test Tailwind stila
-      </div>
-
       {/* Futuristička mreža u pozadini */}
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(255,0,255,0.1),transparent_70%)] opacity-40 z-0 pointer-events-none" />
 
